@@ -2,15 +2,12 @@
 Azure Learning and Certification Path
 
 ### Contents:
-  - Installation steps and basic
-  - Important Packages
-  - Web Tutorials
-  - Video Tutorials
-  - Courses
-  - Podcast for angular
-  - Blogs
-  - Projects with angular to contribute
-  - Angular common errors (How to solve)
+  - Topics 
+  - Web Tutorials links
+  - Video Tutorials links
+  - Courses links
+  - Podcast links
+  - Blogs links
 
 
 ### Topics
