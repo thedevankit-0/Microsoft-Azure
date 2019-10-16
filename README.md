@@ -69,17 +69,36 @@ Azure Learning and Certification Path
     - Implement and manage hybrid identities
     - Implement multi-factor authentication (MFA)
 
+### Web Tutorials links
+
+1. [Azure A-Z tools, tutorials links ](https://github.com/BMichaelJ/Azure-links/blob/master/README.md#Training)
+
+2. [Microsoft Azure with step-by-step guidance](https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&term=azure&products=azure&roles=administrator)
 
 
 
+### Courses links
+
+1. [Azure Administration Essential Training](https://www.linkedin.com/learning/azure-administration-essential-training)
+2. [AZ-300 Azure Architecture Technologies Certification Exam ](https://www.udemy.com/share/101WV2/)
 
 
+### Video Tutorials links
+ 
+1. [Azure Fundamentals -](https://www.youtube.com/watch?v=M7v52Wbe8Dc&list=PL-V4YVm6AmwWLTTwZdI7hcpKqTpFUIKUE)
+2. [AZ-103: Azure Administrator Introduction](https://www.youtube.com/watch?v=CP65uMm0QSE&list=PLmsQNfjTbtTU6oMXlUQwuQA4PZaZPLPYE)
+3. [Tutorialspoint-Azure Fundamentals](https://www.youtube.com/playlist?list=PLWPirh4EWFpF85G87sm-r-za5ku4cI-u-)
+4. [AZ-103: Azure Administrator Complete ](https://www.youtube.com/playlist?list=PL02Fildmev2Y2KG8xAWarGLxPZeKfrnzJ)
 
 
+### Podcast links
+
+1. [microsoftcloudshow](https://www.microsoftcloudshow.com/) 
 
 
+### Reource Links
 
-
+1. [Free-online-courses-prepare-you-new-azure-exams](https://www.linkedin.com/pulse/free-online-courses-prepare-you-new-azure-exams-chong-lee/)
 
 
 
