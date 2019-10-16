@@ -89,6 +89,7 @@ Azure Learning and Certification Path
 2. [AZ-103: Azure Administrator Introduction](https://www.youtube.com/watch?v=CP65uMm0QSE&list=PLmsQNfjTbtTU6oMXlUQwuQA4PZaZPLPYE)
 3. [Tutorialspoint-Azure Fundamentals](https://www.youtube.com/playlist?list=PLWPirh4EWFpF85G87sm-r-za5ku4cI-u-)
 4. [AZ-103: Azure Administrator Complete ](https://www.youtube.com/playlist?list=PL02Fildmev2Y2KG8xAWarGLxPZeKfrnzJ)
+5. [AZ-103: Exam Quick Tips](https://www.youtube.com/watch?v=XFJYH4J6kN0&list=PL4ZP0JmH05bTMKp5p_PIponQTshu33rf3)
 
 
 ### Podcast links
