@@ -106,5 +106,3 @@ Azure Learning and Certification Path
 
 
 
-
-
