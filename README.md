@@ -2,12 +2,12 @@
 Azure Learning and Certification Path
 
 ### Contents:
-  - Topics 
-  - Web Tutorials links
-  - Video Tutorials links
-  - Courses links
-  - Podcast links
-  - Blogs links
+  + [Topics](#Topics) 
+  + [Web Tutorials links](#Web-Tutorials-links)
+  + [Courses links](#Courses-links)
+  + [Video Tutorials links](#Video-Tutorials-links)
+  + [Podcast links](#Podcast-links)
+  + [Reource Links](#Reource-Links)
 
 
 ### Topics
