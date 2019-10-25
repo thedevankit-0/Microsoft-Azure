@@ -113,3 +113,4 @@ Azure Learning and Certification Path
 3) [Learn Azure in a Month of Lunches](https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/)
 4) [Microsoft Cloud Summit](https://www.microsoft.com/en-in/vidyapeeth/cloudsummit)
 5) [Microsoft Azure Tutorial for Beginners: Learn in 1 Day ](https://www.guru99.com/microsoft-azure-tutorial.html)
+6) [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals)
