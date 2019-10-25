@@ -106,5 +106,5 @@ Azure Learning and Certification Path
 
 ### Blogs and Learning Kit
 1) [Get-started-with-azure-cli](https://medium.com/@ramaswin121994/get-started-with-azure-cli-16b3938c5cfc)
-2) [Azure For Begineers](https://www.youtube.com/watch?v=wdUK7bCMXqs)
+2) [Azure For Begineers-Video](https://www.youtube.com/watch?v=wdUK7bCMXqs)
 
