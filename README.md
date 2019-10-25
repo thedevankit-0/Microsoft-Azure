@@ -92,6 +92,8 @@ Azure Learning and Certification Path
 5. [AZ-103: Exam Quick Tips](https://www.youtube.com/watch?v=XFJYH4J6kN0&list=PL4ZP0JmH05bTMKp5p_PIponQTshu33rf3)
 6. [AZ-103: Azure Administrator Hindi](https://www.youtube.com/watch?v=KjEPn0u9neQ&list=PLp1-mhDHDqVmxHvOhAjw9o_JpAhku_Ani)
 7. [AZ-103:Exam Prep](https://www.youtube.com/playlist?list=PL2cpErdp4pbDBl9J7rts6VNwr3U-l-LXG)
+8. [Azure For Begineers-Video](https://www.youtube.com/watch?v=wdUK7bCMXqs)
+9. [Azure AZ-103 Exam Prep M2 Azure VM Review Questions](https://www.youtube.com/watch?v=QMk4FnJ6bDc)
 
 
 ### Podcast links
@@ -106,5 +108,5 @@ Azure Learning and Certification Path
 
 ### Blogs and Learning Kit
 1) [Get-started-with-azure-cli](https://medium.com/@ramaswin121994/get-started-with-azure-cli-16b3938c5cfc)
-2) [Azure For Begineers-Video](https://www.youtube.com/watch?v=wdUK7bCMXqs)
+4) [Common PowerShell commands for creating and managing Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-common-ref)
 
