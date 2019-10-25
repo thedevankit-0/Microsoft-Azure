@@ -81,6 +81,7 @@ Azure Learning and Certification Path
 
 1. [Azure Administration Essential Training](https://www.linkedin.com/learning/azure-administration-essential-training)
 2. [AZ-300 Azure Architecture Technologies Certification Exam ](https://www.udemy.com/share/101WV2/)
+3. [Managing Microsoft Azure Subscriptions](https://app.pluralsight.com/library/courses/microsoft-azure-subscriptions-managing/table-of-contents)
 
 
 ### Video Tutorials links
