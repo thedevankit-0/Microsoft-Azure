@@ -108,5 +108,5 @@ Azure Learning and Certification Path
 
 ### Blogs and Learning Kit
 1) [Get-started-with-azure-cli](https://medium.com/@ramaswin121994/get-started-with-azure-cli-16b3938c5cfc)
-4) [Common PowerShell commands for creating and managing Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-common-ref)
-
+2) [Common PowerShell commands for creating and managing Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-common-ref)
+3) [Learn Azure in a Month of Lunches](https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/)
