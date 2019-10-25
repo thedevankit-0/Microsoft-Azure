@@ -114,3 +114,4 @@ Azure Learning and Certification Path
 4) [Microsoft Cloud Summit](https://www.microsoft.com/en-in/vidyapeeth/cloudsummit)
 5) [Microsoft Azure Tutorial for Beginners: Learn in 1 Day ](https://www.guru99.com/microsoft-azure-tutorial.html)
 6) [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals)
+7) [Azure Active Directory documentation](https://docs.microsoft.com/en-us/azure/active-directory)
