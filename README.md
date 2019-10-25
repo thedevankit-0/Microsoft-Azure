@@ -104,6 +104,7 @@ Azure Learning and Certification Path
 1. [Free-online-courses-prepare-you-new-azure-exams](https://www.linkedin.com/pulse/free-online-courses-prepare-you-new-azure-exams-chong-lee/)
 
 
-
-
+### Blogs and Learning Kit
+1) [Get-started-with-azure-cli](https://medium.com/@ramaswin121994/get-started-with-azure-cli-16b3938c5cfc)
+2) [Azure For Begineers](https://www.youtube.com/watch?v=wdUK7bCMXqs)
 
