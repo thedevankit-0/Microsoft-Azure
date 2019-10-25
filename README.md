@@ -95,6 +95,7 @@ Azure Learning and Certification Path
 7. [AZ-103:Exam Prep](https://www.youtube.com/playlist?list=PL2cpErdp4pbDBl9J7rts6VNwr3U-l-LXG)
 8. [Azure For Begineers-Video](https://www.youtube.com/watch?v=wdUK7bCMXqs)
 9. [Azure AZ-103 Exam Prep M2 Azure VM Review Questions](https://www.youtube.com/watch?v=QMk4FnJ6bDc)
+10. [Channel9-Azure Foundation for nonprofits](https://channel9.msdn.com/Shows/Azure-Friday/Azure-Foundation-for-nonprofits?term=azure&pubDate=year&lang-en=true)
 
 
 ### Podcast links
