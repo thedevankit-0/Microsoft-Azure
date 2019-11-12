@@ -76,6 +76,13 @@ Azure Learning and Certification Path
 2. [Microsoft Azure with step-by-step guidance](https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&term=azure&products=azure&roles=administrator)
 
 
+### Azure-Learning-Path
+
+- https://www.microsoft.com/en-us/learning/azure-fundamentals.aspx
+
+- https://www.microsoft.com/en-us/learning/azure-administrator.aspx
+
+
 
 ### Courses links
 
